@@ -1,0 +1,3 @@
+https://github.com/hoechenberger/pybrain_mne/
+
+https://pybrain-workshop.github.io
